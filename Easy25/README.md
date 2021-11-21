@@ -22,5 +22,6 @@
 - [x] Selection Sort
 - [x] Palindrome Check
 - [x] Ceaser Cipher Encryptor
+- [x] Run-Length Encoding
 - [x] Generate Document
 - [x] First Non-Repeating Character
