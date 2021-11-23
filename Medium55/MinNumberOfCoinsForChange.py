@@ -1,6 +1,6 @@
 def minNumberOfCoinsForChange(n, denoms):
 	"""
-	Classic DP: O(n)
+	Classic DP: O(nd)
 	"""
 	dp = [float('inf')] * (n + 1)
 	dp[0] = 0
