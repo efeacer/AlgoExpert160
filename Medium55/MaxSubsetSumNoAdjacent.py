@@ -2,7 +2,7 @@ def maxSubsetSumNoAdjacent(array):
 	"""
 	Clever DP: O(n)
 	"""
-    if not array:
+	if not array:
 		return 0
 	n = len(array)
 	if n == 1:
